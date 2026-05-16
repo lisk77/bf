@@ -15,7 +15,7 @@ bf run <file>               # uses the inbuilt interpreter to run the file
 
 ## Optimizations
 
-This compiler has been simply optimized by bunching incrememts, decrements as well as moves to the right and to the left together. 
+The output of this compiler has been simply optimized by bunching incrememts, decrements as well as moves to the right and to the left together. 
 It also eliminates simple things like 
 
 ```bf
